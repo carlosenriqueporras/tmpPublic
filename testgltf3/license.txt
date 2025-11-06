@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low def box
+* source:	https://sketchfab.com/3d-models/low-def-box-474d329f8e8749afae6df4fe7e11bff4
+* author:	carlosenriqueporraas (https://sketchfab.com/carlosenriqueporraas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low def box" (https://sketchfab.com/3d-models/low-def-box-474d329f8e8749afae6df4fe7e11bff4) by carlosenriqueporraas (https://sketchfab.com/carlosenriqueporraas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
